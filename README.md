@@ -9,4 +9,4 @@
 # cd Friends-hack
 # python2 Aryanhacker.py
 
-# join my telegram channel https://t.me/joinchat/RHNshhMEJyM0TRzk
+# join my 👉 telegram channel https://t.me/joinchat/RHNshhMEJyM0TRzk
